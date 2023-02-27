@@ -1,0 +1,26 @@
+ {
+         "extends": "@tsconfig/react-native/tsconfig.json"
+
+ }
+
+
+    // {
+    //     "compilerOptions": {
+    //          "allowsJs" : true,
+    //          "allowsSyntheticDefaultImports" : true,
+    //          "esModuleInterop" : true,
+    //          "isolateModules"  : true,
+    //          "jsx":"react",
+    //          "lib":["es6"],
+    //          "moduleResolution":"node",
+    //          "noEmit": true,
+    //          "strict": true,
+    //          "target": "esnext"
+
+    //     },
+    //     "exclude": [
+    //         "node_modules",
+    //         "babel.config,js",
+    //         "metro.config,js",
+    //     ]
+    // }
